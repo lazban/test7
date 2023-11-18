@@ -1,0 +1,166 @@
+
+
+[   
+      
+  {
+  "tag" : "artificial intelligence",
+  "posts" : [
+      
+      "./2021/04/AI-and-intellectual-property",
+      
+      "./2021/04/back-to-basics",
+      
+      "./2021/03/deep-q-learning-tic-tac-toe"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "coding",
+  "posts" : [
+      
+      "./2021/03/deep-q-learning-tic-tac-toe",
+      
+      "./2021/03/neural-network-optimization-methods",
+      
+      "./2021/02/ML-Library-from-scratch",
+      
+      "./2021/02/conways-game-of-life",
+      
+      "./2021/01/single-neuron-perceptron"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "copyright",
+  "posts" : [
+      
+      "./2021/04/AI-and-intellectual-property"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "creativity",
+  "posts" : [
+      
+      "./2021/04/AI-and-intellectual-property"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "deep Neural networks",
+  "posts" : [
+      
+      "./2021/03/neural-network-optimization-methods"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "general blogging",
+  "posts" : [
+      
+      "./2021/03/starting-the-adventure"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "life",
+  "posts" : [
+      
+      "./2021/03/starting-the-adventure"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "machine learning",
+  "posts" : [
+      
+      "./2021/04/AI-and-intellectual-property",
+      
+      "./2021/04/back-to-basics",
+      
+      "./2021/03/deep-q-learning-tic-tac-toe",
+      
+      "./2021/03/neural-network-optimization-methods",
+      
+      "./2021/02/ML-Library-from-scratch",
+      
+      "./2021/01/single-neuron-perceptron"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "neural networks",
+  "posts" : [
+      
+      "./2021/04/AI-and-intellectual-property",
+      
+      "./2021/04/back-to-basics",
+      
+      "./2021/02/ML-Library-from-scratch",
+      
+      "./2021/01/single-neuron-perceptron"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "optimization",
+  "posts" : [
+      
+      "./2021/03/neural-network-optimization-methods"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "python",
+  "posts" : [
+      
+      "./2021/03/deep-q-learning-tic-tac-toe",
+      
+      "./2021/02/ML-Library-from-scratch",
+      
+      "./2021/02/conways-game-of-life"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "reinforcement learning",
+  "posts" : [
+      
+      "./2021/03/deep-q-learning-tic-tac-toe"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "thoughts",
+  "posts" : [
+      
+      "./2021/03/starting-the-adventure"
+      
+    ]
+  } 
+    
+]
